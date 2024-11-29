@@ -74,8 +74,9 @@ To enhance Vrindavan Store's sales in 2024, the following strategies are recomme
 ### 🛠️ Tools and Technologies Used  
 
 - **Microsoft Excel:** For creating interactive dashboards and visualizations.
-- **Data Analysis Techniques:** Structured raw data to uncover meaningful insights.
-
+- **Data Analysis Techniques:** Structured raw data to uncover meaningful insights.<br>
+*Data extraction, Data transformation, Data Cleaning, Data Processing, Data Preprocessing, Data Analysis<br> Techniques, Dashboarding, Reporting*
+ 
 ### 📂 How to Use the Dashboard  
 
 1. **Download the Repository:** Clone this repository or download the Excel file containing the dashboard.  
